@@ -1,0 +1,10 @@
+    <declare-styleable name="RoundAngleImageView">
+        <attr name="roundWidth" format="dimension" />
+        <attr name="roundHeight" format="dimension" />
+    </declare-styleable>
+    <declare-styleable name="RoundFourImageView">
+        <attr name="roundLeftUp" format="boolean" />
+        <attr name="roundLeftDown" format="boolean" />
+        <attr name="roundRightUp" format="boolean" />
+        <attr name="roundRightDown" format="boolean" />
+    </declare-styleable>

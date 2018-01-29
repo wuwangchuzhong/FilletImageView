@@ -1,0 +1,12 @@
+  <com.yidian.buyer.view.FilletImageView
+                android:id="@+id/iv_image"
+                android:layout_width="99.5dp"
+                android:layout_height="131dp"
+                android:layout_marginLeft="0.5dp"
+                android:background="#ffffff"
+                android:scaleType="fitXY"
+                android:src="@drawable/syncauction"
+                app:roundHeight="15dp"
+                app:roundLeftDown="true"
+                app:roundLeftUp="true"
+                app:roundWidth="15dp" />
